@@ -20,7 +20,7 @@ public class Chapter05 {
 		Character char1 = 'a';
 		System.out.println(char1);
 
-		int[] array1 = { 10, 20, 50, 60, 75 };
+		int[] array1 = { 10, 20, 50, 65, 75 };
 		int int3 = array1[3];
 		System.out.println(int3);
 

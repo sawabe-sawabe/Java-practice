@@ -5,13 +5,13 @@ public class Null01 {
 		String string1;
 		
 		string1 = "あいう";
-		System.out.println(string1+"の文字数"+string1.length());
+		System.out.println(string1+"の文字数:"+string1.length());
 		
 		string1 = "";
-		System.out.println(string1+"の文字数"+string1.length());
+		System.out.println(string1+"の文字数:"+string1.length());
 		
 		string1 = null;
-		System.out.println(string1+"の文字数"+string1.length());
+		System.out.println(string1+"の文字数:"+string1.length());
 		
 	}
 
