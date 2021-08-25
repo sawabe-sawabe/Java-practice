@@ -1,7 +1,7 @@
 import java.math.BigDecimal;
 
-class Apple extends Fruit {
-	Apple(String name, BigDecimal price) {
+class Peach extends Fruit {
+	Peach(String name, BigDecimal price) {
 		super(name, price);
 
 	}
